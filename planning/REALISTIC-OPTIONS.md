@@ -9,6 +9,13 @@
 
 **Existing Assets:**
 - MPP file uploader with Java backend (parsing complete)
+- Pre-approval project admin system with:
+  - Email functionality to users
+  - Permissions system (users/stakeholders/clients)
+- Firebase authentication (configured)
+- Azure Communications Services (email notifications)
+- LibreDWG library (free, for DWG rendering)
+- Australian Azure region servers (hosting confirmed)
 
 ---
 
